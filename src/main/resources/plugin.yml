@@ -1,0 +1,8 @@
+name: FlyPlugin
+author: Wega
+version: '${project.version}'
+main: me.wega.fly.Main
+api-version: 1.19
+commands:
+  fly:
+    description: Fly freely
