@@ -1,18 +1,18 @@
 # FlyPlugin
 FlyPlugin for Minecraft made in Java
 
-_I don't recommend anoyone to actually use this. I just want to archive my first Minecraft plugin here. :)_
+_I don't recommend anoyone to actually use this. I just want to archive my first Minecraft plugins here. :)_
  
  
 **Commands:**
-- /fly
-- /fly <speed>
-- /fly <target>
-- /fly <target> <speed>
+    /fly
+    /fly <speed>
+    /fly <target>
+    /fly <target> <speed>
 
 **Permissions:**
-- wega.fly
-- wega.admin
+    wega.fly
+    wega.admin
  
  
  
