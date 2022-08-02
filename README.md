@@ -5,14 +5,18 @@ _I don't recommend anoyone to actually use this. I just want to archive my first
  
  
 **Commands:**
+```
     /fly
     /fly <speed>
     /fly <target>
     /fly <target> <speed>
+```
 
 **Permissions:**
+```
     wega.fly
     wega.admin
+```
  
  
  
