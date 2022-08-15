@@ -7,17 +7,17 @@ _I don't recommend anoyone to actually use this. I just want to archive my first
 
 **Commands:**
 ```
-    /fly
-    /fly <speed>
-    /fly <target>
-    /fly <target> <speed>
+/fly
+/fly <speed>
+/fly <target>
+/fly <target> <speed>
 ```
 <br/>
 
 **Permissions:**
 ```
-    wega.fly
-    wega.admin
+wega.fly
+wega.admin
 ```
 
 <br/>
